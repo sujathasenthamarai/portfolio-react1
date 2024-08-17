@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1ab0acea.css",
+    "main.js": "/static/js/main.1af6542b.js",
+    "static/media/onlineshop.png": "/static/media/onlineshop.6f0d8f308a642a11bd82.png",
+    "static/media/htmltask.png": "/static/media/htmltask.548e540d88c3c0d8a885.png",
+    "static/media/csstask.png": "/static/media/csstask.34841d2c645d5cb0eada.png",
+    "static/media/logo 1-png.png": "/static/media/logo 1-png.09fb5a06a52e7089246d.png",
+    "static/media/Bootstraptask.png": "/static/media/Bootstraptask.f1c8307144c0c16e69df.png",
+    "static/media/reacttask.png": "/static/media/reacttask.6a9036cacc9b7baa28b3.png",
+    "static/media/javamodule.png": "/static/media/javamodule.82525e9bd10cb49077ae.png",
+    "static/media/mern-stack-developer.png": "/static/media/mern-stack-developer.3fe2c4440982949c2e15.png",
+    "index.html": "/index.html",
+    "main.1ab0acea.css.map": "/static/css/main.1ab0acea.css.map",
+    "main.1af6542b.js.map": "/static/js/main.1af6542b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ab0acea.css",
+    "static/js/main.1af6542b.js"
+  ]
+}
